@@ -14,7 +14,7 @@ import {
 import { GiSoundWaves } from 'react-icons/gi';
 import './App.css';
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://98b047905c6d.ngrok-free.app';
+const API_URL = process.env.REACT_APP_API_URL || 'https://4d3ac419aa84.ngrok-free.app';
 
 function App() {
   const [recording, setRecording] = useState(false);
